@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Tushar Prasad, currently completing my Masters of Data Science at Columbia University. My researc areas include Natural Language Processing and Recommendation Systems. I have over 4 years of experience working for central and product teams at Times Internet Limited.
+I am Tushar Prasad, currently completing my Masters of Data Science at Columbia University. My research areas include Natural Language Processing and Recommendation Systems. I have over 4 years of experience working for central and product teams at Times Internet Limited.
 
 Here are some ideas to get you started:
 
